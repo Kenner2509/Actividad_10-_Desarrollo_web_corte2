@@ -19,7 +19,7 @@ npm install
 npm run dev
 ```
 
-Abre en el navegador la dirección que aparece en la terminal (normalmente http://localhost:5173).
+Abra en el navegador la dirección que aparece en la terminal (normalmente http://localhost:5173).
 
 ## Funcionalidades
 
